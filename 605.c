@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
 	int a[500],b[500],c[500];
 	int n,i,j;
 	printf("enter the number of ninja warriors");
@@ -14,5 +14,4 @@ int main() {
 	{
 		printf("\n%d",c[i]);
 	}
-    return o;	
-}
+    }
