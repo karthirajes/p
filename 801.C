@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
  int a=5,i;
  char s[100];
@@ -9,5 +9,5 @@ void main()
  {
      printf("%c",s[i]);
  }
-
+ return 0;
 }
