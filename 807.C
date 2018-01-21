@@ -2,7 +2,7 @@
 int main(void)
 {
  int a=7,i;
- char s[100];
+ char s[200];
  gets(s);
  
  for(i=0;i<=a;i++)
