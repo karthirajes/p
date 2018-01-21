@@ -1,5 +1,5 @@
 #include <stdio.h>
- void main()
+int main()
 {
     int fib1 = 0, fib2 = 1, fib3, num, count = 0;
  
@@ -17,4 +17,5 @@
         fib1 = fib2;
         fib2 = fib3;
    }
+ return 0;
 }
