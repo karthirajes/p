@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
- int a=3,i;
+ int a=5,i;
  char s[10];
  gets(s);
  
