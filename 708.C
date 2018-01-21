@@ -9,5 +9,5 @@ int main(void)
  {
      printf("%c",s[i]);
  }
- return 0;
+
 }
