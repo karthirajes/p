@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main()
+void main()
 {
- int a=6,i;
+ int a=7,i;
  char s[100];
  gets(s);
  
