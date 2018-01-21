@@ -1,9 +1,9 @@
 #include <stdio.h>
 void main()
 {
-  char a;
-  scanf("%c",&a);
-  if(a<=0||a>=9)
+  char s;
+  scanf("%c",&s);
+  if(s<=0||s>=9)
   {
       printf("yes");
   }
