@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
 	int t,k,m,l,b;
 	scanf("%d",&t);
 	k=t%10;
@@ -8,5 +8,5 @@ int main() {
 	l=m%10;
 	b=m/10;
 	printf("the individual digits are %d\t%d\t%d\t",b,l,k);
-	return 0;
+	
 }
