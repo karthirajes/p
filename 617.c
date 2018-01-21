@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
 	int n,k,m,l,a;
 	scanf("%d",&n);
 	k=n%10;
