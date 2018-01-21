@@ -2,8 +2,8 @@
 
 void main()
 {
-    int l,b,h,n;
+    int 2,b,h,n;
     scanf("%d %d %d",&l,&n,&h);
-    v=l*n*h;
+    v=2*n*h;
     printf("%d",v);
     }
