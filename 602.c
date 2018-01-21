@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main() {
-	int a[10],b[10],c[10];
+	int a[100],b[100],c[100];
 	int n,i,j;
 	printf("enter the number of ninja warriors");
 	scanf("%d",&n);
